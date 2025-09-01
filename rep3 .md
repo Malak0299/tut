@@ -3,4 +3,9 @@
 **BOLD**
 *Italic*
 >Once upon a time
-Jeg hedder Malak 
+
+# Heading 2
+## Subheading
+**BOOM**
+*boom*
+>In the land of the blind, the one-eyed man is king
